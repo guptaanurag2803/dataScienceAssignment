@@ -1,0 +1,13 @@
+product_id,product_name,category,price,sales_date,sales_amount
+1,Product A,Electronics,1000,2022-01-01,5
+2,Product B,Books,500,2022-01-01,10
+3,Product C,Home & Kitchen,2000,2022-01-01,2
+4,Product D,Electronics,1500,2022-01-02,8
+5,Product E,Books,800,2022-01-02,12
+6,Product F,Home & Kitchen,2500,2022-01-02,3
+7,Product G,Electronics,1200,2022-01-03,7
+8,Product H,Books,600,2022-01-03,9
+9,Product I,Home & Kitchen,3000,2022-01-03,4
+10,Product J,Electronics,900,2022-01-04,6
+11,Product K,Books,400,2022-01-04,11
+12,Product L,Home & Kitchen,1800,2022-01-04,5
